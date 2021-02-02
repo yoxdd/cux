@@ -1,7 +1,7 @@
 {
-    "name": "xrayku",
-    "description": "xray websocket proxy on heroku",
-    "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
+    "name": "cucumber",
+    "description": "cucumber",
+    "keywords": ["cucumber"],
     "env": {
         "AA": {
             "description": "初阶用户只需修改以下AUUID点击页面最后的Deploy app按钮即可开始部署",
@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/mixool/xrayku/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/mixool/xrayku",
-    "repository": "https://github.com/mixool/xrayku",
+    "website": "cucumber",
+    "repository": "CucumberF",
     "stack": "container"
 }
